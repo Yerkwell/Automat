@@ -1,0 +1,48 @@
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\bin\Debug\Automat.exe.config
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\bin\Debug\Automat.exe
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\bin\Debug\Automat.pdb
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\Automat.csprojResolveAssemblyReference.cache
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\MainWindow.baml
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\MainWindow.g.cs
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\App.g.cs
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\Automat_MarkupCompile.cache
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\Automat.g.resources
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\Automat.Properties.Resources.resources
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\Automat.csproj.GenerateResource.Cache
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\Automat.exe
+c:\users\yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\Automat.pdb
+C:\Users\Yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yerk\documents\visual studio 2013\Projects\Automat\Automat\obj\Debug\Automat_MarkupCompile.lref
+f:\Automat\Automat\bin\Debug\Automat.exe.config
+f:\Automat\Automat\obj\Debug\Automat.exe
+f:\Automat\Automat\obj\Debug\Automat.pdb
+f:\Automat\Automat\obj\Debug\Automat.csprojResolveAssemblyReference.cache
+f:\Automat\Automat\obj\Debug\MainWindow.g.cs
+f:\Automat\Automat\obj\Debug\App.g.cs
+f:\Automat\Automat\obj\Debug\Automat_MarkupCompile.cache
+f:\Automat\Automat\obj\Debug\Automat_MarkupCompile.lref
+f:\Automat\Automat\bin\Debug\Automat.exe
+f:\Automat\Automat\bin\Debug\Automat.pdb
+f:\Automat\Automat\obj\Debug\MainWindow.baml
+f:\Automat\Automat\obj\Debug\Automat.g.resources
+f:\Automat\Automat\obj\Debug\Automat.Properties.Resources.resources
+f:\Automat\Automat\obj\Debug\Automat.csproj.GenerateResource.Cache
+f:\Automat\Automat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Automat\Automat\obj\Debug\VisualWindow.baml
+F:\Automat\Automat\obj\Debug\VisualWindow.g.cs
+g:\Automat\Automat\bin\Debug\Automat.exe.config
+g:\Automat\Automat\obj\Debug\Automat.exe
+g:\Automat\Automat\obj\Debug\Automat.pdb
+g:\Automat\Automat\bin\Debug\Automat.exe
+g:\Automat\Automat\bin\Debug\Automat.pdb
+g:\Automat\Automat\obj\Debug\VisualWindow.baml
+g:\Automat\Automat\obj\Debug\MainWindow.g.cs
+g:\Automat\Automat\obj\Debug\VisualWindow.g.cs
+g:\Automat\Automat\obj\Debug\App.g.cs
+g:\Automat\Automat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Automat\Automat\obj\Debug\Automat_MarkupCompile.cache
+g:\Automat\Automat\obj\Debug\Automat_MarkupCompile.lref
+g:\Automat\Automat\obj\Debug\MainWindow.baml
+g:\Automat\Automat\obj\Debug\Automat.g.resources
+g:\Automat\Automat\obj\Debug\Automat.Properties.Resources.resources
+g:\Automat\Automat\obj\Debug\Automat.csproj.GenerateResource.Cache

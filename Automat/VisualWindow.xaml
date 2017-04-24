@@ -1,0 +1,11 @@
+﻿<Window x:Name="visualWindow1" x:Class="Automat.VisualWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Каноническое представление" Height="300" Width="300" Loaded="visualWindow1_Loaded" KeyDown="visualWindow1_KeyDown">
+    <Grid>
+        <Canvas x:Name="canvas1" Background="White" HorizontalAlignment="Left" Height="269" VerticalAlignment="Top" Width="292"/>
+        <Menu Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Сохранить" Click="Save_Button_Click"></MenuItem>
+        </Menu>
+    </Grid>
+</Window>
